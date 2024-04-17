@@ -1,2 +1,2 @@
 <?php
-echo "Hola Git";
+echo "New Git";
