@@ -1,0 +1,42 @@
+[33mcommit ef27c176604d5068e49af9951549d0c940be3ff7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Merge: 0986d3e 4f6f93e
+Author: khrono <khrono@gmail.com>
+Date:   Wed Apr 17 19:48:34 2024 -0400
+
+    git v2
+
+[33mcommit 4f6f93ea30003c2f8e85f567629033b3c8e029d9[m[33m ([m[1;32mmain[m[33m)[m
+Author: khrono <khrono@gmail.com>
+Date:   Wed Apr 17 19:31:43 2024 -0400
+
+    Mitercer git v2
+
+[33mcommit 0986d3e86770f499f4df96995993f8ae89c1fb0d[m
+Author: khrono <khrono@gmail.com>
+Date:   Wed Apr 17 19:21:43 2024 -0400
+
+    Login
+
+[33mcommit f1a896c928322e42dce2afe0fb30ca67ad9143f1[m
+Author: khrono <khrono@gmail.com>
+Date:   Wed Apr 17 13:16:04 2024 -0400
+
+    este es mi quinto commit
+
+[33mcommit e793d3719abc9af9d27b8ef9d35dda31dcff0fb6[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+Author: khrono <khrono@gmail.com>
+Date:   Wed Apr 17 11:26:53 2024 -0400
+
+    Se ha modificado este print
+
+[33mcommit ad96842d09afa38d2b24858e8e4d11b12b14116b[m
+Author: khrono <khrono@gmail.com>
+Date:   Wed Apr 17 11:14:17 2024 -0400
+
+    Este es mi segundo commit
+
+[33mcommit 56fe8aa0efb5927b1009a3a614a8001d575d40a8[m
+Author: khrono <khrono@gmail.com>
+Date:   Wed Apr 17 11:04:55 2024 -0400
+
+    Este es mi primer commit
